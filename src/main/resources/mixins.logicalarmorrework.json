@@ -1,0 +1,11 @@
+{
+  "package": "boblovespi.logicalarmorrework.asm.mixin",
+  "refmap": "mixins.logicalarmorrework.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinCombatRules",
+    "MixinItemSword"
+  ]
+}
